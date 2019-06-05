@@ -2,7 +2,7 @@
 <html lang="en" xmlns:th="http://www.thymeleaf.org"
      >
 <div th:replace="themes/default/header::header(${article.title},null)"></div>
-<body class="bg-ico-image">
+<body class="bg-ico-image bg-img">
 <article class="main-content post-page">
     <div class="post-header">
         <h1 class="post-title" itemprop="name headline" th:text="${article.title}"></h1>
@@ -13,6 +13,6 @@
     <div id="post-content" class="post-content" th:utext="${commons.article(article.content)}"></div>
 </article>
 <div th:replace="themes/default/comments::comments"></div>
-<div th:replace="themes/default/footer::footer"></div>
+<div style="height: 100px" th:replace="themes/default/footer::footer"></div>
 </body>
 </html>

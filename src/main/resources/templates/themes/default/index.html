@@ -2,8 +2,8 @@
 <html lang="en" xmlns:th="http://www.thymeleaf.org"
       >
 <div th:replace="themes/default/header::header(null,null)"></div>
-<body>
-<div class="main-content index-page clearfix">
+<body class="bg-img" >
+<div class="main-content index-page clearfix ">
     <div class="post-lists">
         <div class="post-lists-body">
             <div class="post-list-item" th:each="article: ${articles.list}">
@@ -30,9 +30,9 @@
         </div>
     </div>
     <div class="lists-navigator clearfix">
-        <div th:replace="comm/macros::pageNav(${articles},'←','→','page')"></div>
+        <div style="color: #fbc2c4" th:replace="comm/macros::pageNav(${articles},'←','→','page')"></div>
     </div>
 </div>
 </body>
-<div th:replace="themes/default/footer::footer"></div>
+<div style="height: 100px" th:replace="themes/default/footer::footer"></div>
 </html>
