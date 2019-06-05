@@ -1,0 +1,78 @@
+2019 5-29
+/rest/seller/vms/accounting/addStatement  
+{
+  _id:"ObjectId",
+  created:"ISODate",
+  creater:"",
+  modified:"ISODate",
+  modifier:"",
+  supplierId:"",
+  sellerId:"",
+  statementId:"",
+  transactionId:"",
+  transactionType:"",
+  transactionTime:"ISODate",
+  platformId:"",
+  cartId:"",//店铺id
+  orderId:"",//订单号
+  orderTime:"ISODate",//下单时间
+  cartOrderId:"",//平台订单号
+  description:"",
+  cartCurrency:"",
+  qtyOrdered:,//
+  transactionAmount:23,//交易金额
+  localCurrency:"",//结算币种
+  rate://汇率
+  localAmount:22,结算金额
+  items:[
+    {
+      "sku":"",
+      "qty":3
+    }
+  ]
+}
+
+2019 5-30
+tar -xvf
+netstat -nap  查看进程 
+
+
+2019 5-31
+barneys的OpenVMS中的供应商ID: 100045,  销售商ID: 100021, 公司ID: 1010400,   CMS、WMS的channelID: 401
+ <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.20</version>
+        </dependency>
+@Data
+@@Accessors(chain = true) 链式set
+
+
+Account业务的errosMessage
+ String FIELD_NOT_EMPTY = "E1010004"; //属性[%s]不能为空
+ String MAX_SIZE_ERROR = "E1010075";  // %s列表的最大存放个数不能大于%s
+ String MIN_VALUE_INCLUDE_ERROR = "E1010079";  // %s的值必须大于%s
+ String PARAMETER_NOT_EMPTY = "E1010003"; //[%s]不能为空	
+ String E2030001 = "E2030001";   // statement[statementId:%s]不存在
+ String E2030002 = "E2030002";   // [%s]的金额类型[%s]不存在
+ String E2030003 = "E2030003";   // 非Open状态账单，无法更新账单金额
+ String E2030004 = "E2030004";   // 非支付状态账单，无法更新支付金额
+ String E2030005 = "E2030005";   // 流水账号[serialNumber:%s]支付金额不能为0
+ String E2030006 = "E2030006";   // statement[statementId:%s]账单是不可支付状态
+ String E2030007 = "E2030007";   // 流水账号[serialNumber:%s]支付信息已经存在
+ String E2030008 = "E2030008";   // 开始日期和截止日期不完整
+ String E2030009 = "E2030009";   // 开始日期不能在截止之前之后
+ String E2030010 = "E2030010";   // 结算账单[statementName:%s]已存在
+ String E2030011 = "E2030011";   // 未知的TransactionType[%s]
+ String E2030012 = "E2030012";   // 结算账单[%s]不是Open状态, 不能新增结算账单Transaction
+ String E2030013 = "E2030013";   // statement[statementId:%s]账单已关闭
+ String E2030014 = "E2030014";   //statement[statementId:%s]账单状态异常
+ String E2030015 = "E2030015";   //关闭账单类型未知[type:%s]
+ String E2030016 = "E2030016";   //statement[statementId:%s]账单是open状态,不能关闭
+ String E2030017 = "E2030017";   //币种不正确
+ 
+ 
+ git branch -a :获取所有的分支
+
+
+getBrandList
