@@ -1713,3 +1713,342 @@ java.lang.NullPointerException
 2019-06-05 20:12:24.780 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
 2019-06-05 20:12:25.134 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
 2019-06-05 20:12:25.141 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:15:30.770 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:15:30.770 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:15:31.322 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:15:31.322 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:15:39.097 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:15:39.103 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:16:24.489 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:16:24.493 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:16:27.255 [http-nio-8081-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:16:27.260 [http-nio-8081-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:16:39.119 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:16:39.122 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:16:41.262 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:16:41.266 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:16:44.726 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:16:44.729 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:17:02.775 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:17:02.778 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:17:10.135 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:17:10.138 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:17:12.983 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:17:12.986 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:17:17.208 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:17:17.211 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:17:38.768 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-06-06 15:17:38.814 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-06-06 15:17:52.120 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:17:52.123 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:18:11.557 [http-nio-8081-exec-9] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 15:18:11.557 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 15:18:11.559 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 15:18:11.559 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 15:18:11.563 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 15:18:11.563 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 15:18:11.569 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 15:18:11.569 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 15:18:11.572 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 15:18:11.572 [http-nio-8081-exec-9] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 15:18:46.625 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-06-06 15:18:46.633 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-06-06 15:18:47.346 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:18:47.350 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:18:55.015 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:18:55.017 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:21:45.678 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:21:45.681 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:23:26.537 [http-nio-8081-exec-5] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 15:23:26.537 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 15:23:26.539 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 15:23:26.539 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 15:23:26.541 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 15:23:26.541 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 15:23:26.543 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 15:23:26.543 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 15:23:26.544 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 15:23:26.544 [http-nio-8081-exec-5] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 15:23:28.288 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:23:28.290 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:24:22.935 [http-nio-8081-exec-6] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 15:24:22.935 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 15:24:22.937 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 15:24:22.937 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 15:24:22.938 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 15:24:22.938 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 15:24:22.941 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 15:24:22.941 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 15:24:22.942 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 15:24:22.942 [http-nio-8081-exec-6] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 15:25:21.298 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:25:21.300 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:25:29.806 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-06-06 15:25:29.810 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-06-06 15:25:48.656 [http-nio-8081-exec-3] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=null
+2019-06-06 15:26:07.243 [http-nio-8081-exec-9] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 15:26:07.243 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 15:26:07.248 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 15:26:07.248 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 15:26:07.251 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 15:26:07.251 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 15:26:07.257 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 15:26:07.257 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 15:26:07.262 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 15:26:07.262 [http-nio-8081-exec-9] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 15:27:53.593 [http-nio-8081-exec-7] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=null
+2019-06-06 15:27:54.835 [http-nio-8081-exec-9] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=null
+2019-06-06 15:27:55.558 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 15:27:55.562 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 15:27:56.922 [http-nio-8081-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=null
+2019-06-06 15:28:25.633 [http-nio-8081-exec-5] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=null
+2019-06-06 15:28:36.483 [http-nio-8081-exec-7] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=null
+2019-06-06 15:28:53.907 [http-nio-8081-exec-7] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=null
+2019-06-06 15:30:53.943 [http-nio-8081-exec-2] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 15:30:53.943 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 15:30:53.948 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 15:30:53.948 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 15:30:53.950 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 15:30:53.950 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 15:30:53.953 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 15:30:53.953 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 15:30:53.954 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 15:30:53.954 [http-nio-8081-exec-2] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 15:31:30.451 [http-nio-8081-exec-4] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 15:31:30.451 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 15:31:30.452 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 15:31:30.452 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 15:31:30.454 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 15:31:30.454 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 15:31:30.457 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 15:31:30.457 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 15:31:30.459 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 15:31:30.459 [http-nio-8081-exec-4] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 15:32:14.675 [http-nio-8081-exec-3] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 15:32:14.675 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 15:32:14.678 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 15:32:14.678 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 15:32:14.681 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 15:32:14.681 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 15:32:14.684 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 15:32:14.684 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 15:32:14.685 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 15:32:14.685 [http-nio-8081-exec-3] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 16:32:20.650 [http-nio-8081-exec-1] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 16:32:20.650 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 16:32:20.655 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 16:32:20.655 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 16:32:20.658 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 16:32:20.658 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 16:32:20.662 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 16:32:20.662 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 16:32:20.663 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 16:32:20.663 [http-nio-8081-exec-1] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 16:42:21.803 [http-nio-8081-exec-10] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 16:42:21.803 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 16:42:21.805 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 16:42:21.805 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 16:42:21.808 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 16:42:21.808 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 16:42:21.810 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 16:42:21.810 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 16:42:21.812 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 16:42:21.812 [http-nio-8081-exec-10] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-06 16:47:07.825 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 16:47:07.828 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 16:47:08.265 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 16:47:08.268 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 16:47:08.516 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 16:47:08.525 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 16:47:08.846 [http-nio-8081-exec-7] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-06 16:47:08.851 [http-nio-8081-exec-7] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-06 17:11:11.609 [http-nio-8081-exec-9] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-06 17:11:11.609 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-06 17:11:11.611 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-06 17:11:11.611 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-06 17:11:11.613 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-06 17:11:11.613 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-06 17:11:11.616 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-06 17:11:11.616 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-06 17:11:11.617 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-06 17:11:11.617 [http-nio-8081-exec-9] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-11 17:06:54.367 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:06:54.557 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:07:30.231 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:07:30.235 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:07:31.939 [http-nio-8081-exec-9] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=query content by id and return is not one
+2019-06-11 17:07:44.961 [http-nio-8081-exec-8] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=query content by id and return is not one
+2019-06-11 17:08:24.878 [http-nio-8081-exec-6] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-11 17:08:24.878 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-11 17:08:24.882 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-11 17:08:24.882 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-11 17:08:24.887 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-11 17:08:24.887 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-11 17:08:24.895 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-11 17:08:24.895 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-11 17:08:24.898 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-11 17:08:24.898 [http-nio-8081-exec-6] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-11 17:08:57.520 [http-nio-8081-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=query content by id and return is not one
+2019-06-11 17:09:44.835 [http-nio-8081-exec-2] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=query content by id and return is not one
+2019-06-11 17:09:52.588 [http-nio-8081-exec-5] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=query content by id and return is not one
+2019-06-11 17:10:04.759 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:10:04.766 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:11:30.647 [http-nio-8081-exec-7] ERROR com.my.blog.website.controller.admin.SettingController - 备份失败
+java.lang.NullPointerException
+	at com.my.blog.website.service.impl.SiteServiceImpl.backup(SiteServiceImpl.java:119) ~[classes/:?]
+	at com.my.blog.website.controller.admin.SettingController.backup(SettingController.java:107) [classes/:?]
+	at com.my.blog.website.controller.admin.SettingController$$FastClassBySpringCGLIB$$4e9b4e05.invoke(<generated>) [classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:721) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:52) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:52) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:99) [spring-tx-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:282) [spring-tx-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:96) [spring-tx-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:656) [spring-aop-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at com.my.blog.website.controller.admin.SettingController$$EnhancerBySpringCGLIB$$2bdb5d83.backup(<generated>) [classes/:?]
+	at sun.reflect.GeneratedMethodAccessor583.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:116) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) [spring-webmvc-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.springframework.boot.web.support.ErrorPageFilter.doFilter(ErrorPageFilter.java:115) [spring-boot-1.5.1.RELEASE.jar:1.5.1.RELEASE]
+	at org.springframework.boot.web.support.ErrorPageFilter.access$000(ErrorPageFilter.java:59) [spring-boot-1.5.1.RELEASE.jar:1.5.1.RELEASE]
+	at org.springframework.boot.web.support.ErrorPageFilter$1.doFilterInternal(ErrorPageFilter.java:90) [spring-boot-1.5.1.RELEASE.jar:1.5.1.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.6.RELEASE.jar:4.3.6.RELEASE]
+	at org.springframework.boot.web.support.ErrorPageFilter.doFilter(ErrorPageFilter.java:108) [spring-boot-1.5.1.RELEASE.jar:1.5.1.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.StandardContextValve.__invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:41002) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.11.jar:8.5.11]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+2019-06-11 17:12:13.087 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:12:13.092 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:15:33.200 [http-nio-8081-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:15:33.203 [http-nio-8081-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:15:33.681 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:15:33.687 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:15:34.114 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:15:34.118 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:18:07.596 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:18:07.630 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:19:18.723 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:19:18.784 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:19:19.532 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:19:19.539 [http-nio-8081-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:19:20.421 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:19:20.430 [http-nio-8081-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:19:20.808 [http-nio-8081-exec-7] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:19:20.812 [http-nio-8081-exec-7] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:19:21.210 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:19:21.212 [http-nio-8081-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:19:21.590 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:19:21.602 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:20:11.897 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:20:11.930 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:20:12.081 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:20:12.085 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:20:13.873 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:20:13.880 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:20:19.814 [http-nio-8081-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:20:19.819 [http-nio-8081-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:20:26.286 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:20:26.291 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:20:29.598 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:20:29.602 [http-nio-8081-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:20:31.990 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:20:31.994 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:20:54.416 [http-nio-8081-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-06-11 17:20:54.419 [http-nio-8081-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-06-11 17:21:07.419 [http-nio-8081-exec-2] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-11 17:21:07.419 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-11 17:21:07.421 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-11 17:21:07.421 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-11 17:21:07.424 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-11 17:21:07.424 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-11 17:21:07.431 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-11 17:21:07.431 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-11 17:21:07.433 [http-nio-8081-exec-2] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-11 17:21:07.433 [http-nio-8081-exec-2] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-11 17:23:11.238 [http-nio-8081-exec-6] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-11 17:23:11.238 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-11 17:23:11.257 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-11 17:23:11.257 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-11 17:23:11.264 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-11 17:23:11.264 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-11 17:23:11.271 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-11 17:23:11.271 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-11 17:23:11.274 [http-nio-8081-exec-6] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-11 17:23:11.274 [http-nio-8081-exec-6] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-11 17:25:42.800 [http-nio-8081-exec-10] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-11 17:25:42.800 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-11 17:25:42.819 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-11 17:25:42.819 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-11 17:25:42.827 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-11 17:25:42.827 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-11 17:25:42.834 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-11 17:25:42.834 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-11 17:25:42.837 [http-nio-8081-exec-10] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-11 17:25:42.837 [http-nio-8081-exec-10] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-06-11 17:27:11.913 [http-nio-8081-exec-1] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-06-11 17:27:11.913 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-06-11 17:27:11.932 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-06-11 17:27:11.932 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-06-11 17:27:11.939 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-06-11 17:27:11.940 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-06-11 17:27:11.947 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-06-11 17:27:11.947 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-06-11 17:27:11.949 [http-nio-8081-exec-1] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-06-11 17:27:11.950 [http-nio-8081-exec-1] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
